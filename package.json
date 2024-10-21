@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/AliAlfridawi/darylTheLama#readme",
   "dependencies": {
+    "@alpacahq/alpaca-trade-api": "^3.1.2",
+    "dotenv": "^16.4.5",
     "pg": "^8.13.0"
   }
 }
